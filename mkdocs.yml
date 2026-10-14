@@ -4,5 +4,4 @@ theme:
   name: material
   custom_dir: overrides
 
-nav:
-  - 首页: index.md
+

@@ -3,3 +3,6 @@ site_url: https://aozoxl.github.io/uwa/
 theme:
   name: material
   custom_dir: overrides
+
+nav:
+  - 首页: index.md

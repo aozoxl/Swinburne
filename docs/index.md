@@ -1,4 +1,4 @@
- 西澳大学毕业证样式范本（UWA diploma)专业特长
+# 西澳大学毕业证样式范本（UWA diploma)专业特长
 
 作为澳大利亚最具历史底蕴的“澳洲八校联盟”（Group of Eight，简称 Go8）成员之一，**西澳大学（The University of Western Australia，简称 UWA）** 颁发的官方学位证书（Testamur）不仅在国际上拥有极高的含金量，其本身的设计更是一部融合了古典纹章美学与南半球最高学术标准的视觉范本。
 

@@ -42,7 +42,7 @@
 
 随着跨境涉外政务与企事业单位对文凭审核的日益严格，伍伦贡大学官方在线验证系统建立了领先的数字化核验证书链。
 
-在物理证书的最底部，印有一行极其精细的微缩安全免责声明，明确指出：*“The authenticity of this document can be verified online at https://myequals.net”*。
+在物理证书的最底部，印有一行极其精细的微缩安全免责声明，明确指出：*“The authenticity of this document can be verified online at ”*。
 
 任何合法的 UOW 毕业生文凭均已同步至 **My eQuals（澳大利亚与新西兰高等教育数字证书官方平台）**。企业 HR 或学术认证机构只需登录该链上验证系统，输入证书对应的专属序列号，即可瞬间核对物理毕业证上的学位名称（如 *Doctor of Philosophy*）、学号及授予日期（如 *29 May 2026*）是否与官方数据库完全一致，从根本上杜绝了文凭造假的可能。
 

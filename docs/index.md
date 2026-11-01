@@ -2,7 +2,7 @@
 
 在当今全球化的高等教育与职场竞争中，一份海外名校的学位证书不仅是学术生涯的终点站，更是国际化职业道路的通行证。作为澳大利亚著名的创新型综合大学，**斯威本科技大学（Swinburne University of Technology）**凭借其顶尖的工程、IT、商科和设计专业享誉全球。
 
-<img width="527" height="800" alt="澳大利亚斯威本科技大学毕业证样本及学位证文凭样本模版(Swinburne University of Technology Diploma/Certificate of Degree)" src="sut-diploma.jpg" />
+<img width="527" height="800" alt="澳大利亚斯威本科技大学毕业证样本及学位证文凭样本模版(Swinburne University of Technology Diploma/Certificate of Degree)" src="sut-diploma.jpg"/>
 
 
 
